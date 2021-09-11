@@ -57,3 +57,5 @@
 * git commit -m "Add The File"
 * git push -u origin master
 
+### Add token auth while push (after 13Aug,2021)
+`git remote set-url origin https://<token>@github.com/<username>/<repo>`
